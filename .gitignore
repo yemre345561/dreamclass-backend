@@ -4,3 +4,19 @@
 
 # Large installer files
 GoogleCloudSDKInstaller.exe
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+
+# Local environments and tool caches
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
